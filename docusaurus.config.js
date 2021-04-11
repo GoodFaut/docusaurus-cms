@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'HubIO Git®',
+  tagline: 'Built with TotalWebsite™',
+  url: 'https://docusaurus-kyqtg4mln-hubio.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'hubiogit', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'HubIO',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
